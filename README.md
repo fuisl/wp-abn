@@ -11,7 +11,7 @@ This is a WordPress theme for the VGU Alumni By Night website.
 
 Please follow the following git workflow when working on this project.
 
-![alt text](assets\images\git-workflow.png)
+![alt text](assets/images/git-workflow.png)
 
 **Any questions, please ask.**
 
